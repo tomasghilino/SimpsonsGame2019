@@ -1,0 +1,5 @@
+martin 25
+ricardo 16
+paulo 12
+eduardo 4
+micaela 2
